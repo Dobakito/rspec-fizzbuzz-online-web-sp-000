@@ -7,8 +7,8 @@ def fizzbuzz(input)
     "Fizz"
   elsif input % 5 == 0
     "Buzz"
-  else input == false
-    "nil
+  else input = false
+    
   end
 end
 
